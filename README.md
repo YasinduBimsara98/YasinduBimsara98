@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=lathindu1.lathindu1)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-### <img src="https://imgflip.com/embed/6tcqjg" width="50"> A little more about me...  
+### <img src="[https://imgflip.com/embed/6tcqjg](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif)" width="50"> A little more about me...  
 
 ```php
 namespace App\Models;
