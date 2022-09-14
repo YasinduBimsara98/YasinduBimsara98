@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Yasindu Bimsara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.speralabs.com">Speralabs</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Developer at <a href="http://www.axcertro.com">Axcertro</a><img src="https://imgflip.com/embed/6tcqjg" width="30"> 
 </em></p>
 
 [![Linkedin: lathindu-pramuditha](https://img.shields.io/badge/-lathindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
