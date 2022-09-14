@@ -66,6 +66,8 @@ class ProfileOfBimsara extends Life
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasinduBimsara98)]
 
+[![Archivements](https://github.com/YasinduBimsara98?tab=achievements)]
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
