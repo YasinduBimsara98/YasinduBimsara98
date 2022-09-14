@@ -16,16 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Yasindu Bimsara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Developer at <a href="http://www.axcertro.com">Axcertro</a><img src="https://imgflip.com/embed/6tcqjg" width="30"> 
 </em></p>
-
-[![Linkedin: lathindu-pramuditha](https://img.shields.io/badge/-lathindu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lathindu-pramuditha/)](https://www.linkedin.com/in/lathindu-pramuditha/)
-![GitHub followers](https://img.shields.io/github/followers/lathindu1?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=lathindu1.lathindu1)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-
-### <img src="[https://imgflip.com/embed/6tcqjg](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy-downsized-large.gif)" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800" height="250">
+***A little more about me***
 
 ```php
 namespace App\Models;
@@ -33,31 +27,28 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Life;
 
-class ProfileOfLathindu extends Life
+class ProfileOfBimsara extends Life
 {
     use HasFactory;
     const LANGUAGES = [
         'PHP' => 1,
         'JAVASCRIPT' => 2,
-        'PYTHON' => 3,
-        'SOLIDITY' => 4,
-        'DART' => 5
+        'JAVA' => 3,
     ];
 
     const FRAMEWORKS = [
         'LARAVEL' => 1,
         'FLUTTER' => 2,
-        'DJANGO' => 3,
-        'ANGULAR' => 4,
-        'IONIC' => 5
+        'LIVEWIRE' => 3,
+        'ALPINE JS' => 4,
     ];
 
     const EXPERIENCE = 'xxxxxxxxxx of hours from 2021';
 
     const MORE_EXPERIENCE = [
-        'STRIPE_API' => 2,
-        'GIT WITH GITHUB' => 17,
-        'TRELLO' => 20,
+        'STRIPE_API' => 1,
+        'GIT WITH GITHUB' => 2,
+        'TRELLO' => 3,
     ];
 }
 
