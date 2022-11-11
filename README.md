@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Yasindu Bimsara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Software Developer at <a href="http://www.axcertro.com">Axcertro</a><img src="https://imgflip.com/embed/6tcqjg" width="30"> 
 </em></p>
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800" height="250">
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="800" height="200">
 ***A little more about me***
 
 ```php
@@ -33,14 +33,16 @@ class ProfileOfBimsara extends Life
     const LANGUAGES = [
         'PHP' => 1,
         'JAVASCRIPT' => 2,
-        'JAVA' => 3,
+        'TYPESCRIPT' => 3,
+        'JAVA' => 4,
     ];
 
     const FRAMEWORKS = [
         'LARAVEL' => 1,
-        'FLUTTER' => 2,
+        'WIRE_UI' => 2,
         'LIVEWIRE' => 3,
-        'ALPINE JS' => 4,
+        'ALPINE_JS' => 4,
+        'NEXT_JS' => 5,
     ];
 
     const EXPERIENCE = 'xxxxxxxxxx of hours from 2021';
