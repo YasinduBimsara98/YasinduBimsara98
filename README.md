@@ -56,11 +56,11 @@ class ProfileOfBimsara extends Life
 
 ```
 
-## Public Projets
+<!-- ## Public Projets
 
 ⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
 
-⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials)
+⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials) -->
 
 
 
