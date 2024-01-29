@@ -43,26 +43,20 @@ class ProfileOfBimsara extends Life
         'LIVEWIRE' => 3,
         'ALPINE_JS' => 4,
         'NEXT_JS' => 5,
+        'REACT_JS' => 6,
     ];
 
     const EXPERIENCE = 'xxxxxxxxxx of hours from 2021';
 
     const MORE_EXPERIENCE = [
         'STRIPE_API' => 1,
-        'GIT WITH GITHUB' => 2,
+        'GIT_WITH_GITHUB' => 2,
         'TRELLO' => 3,
+        'JIRA' => 4,
     ];
 }
 
 ```
-
-<!-- ## Public Projets
-
-⭐️ [ WUSL Notes (Univercity Notes Share Platform) ](https://wuslnotes.com/)
-
-⭐️ [ Tutorials Project ](https://github.com/lathindu1/tutorials) -->
-
-
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YasinduBimsara98&theme=dracula)]
 
