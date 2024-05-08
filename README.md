@@ -2,7 +2,9 @@
 
 <!--
 **YasinduBimsara98/YasinduBimsara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=YasinduBimsara98&label=Profile%20views&color=0e75b6&style=plastic" alt="YasinduBimsara98" /> 
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
