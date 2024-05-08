@@ -2,9 +2,6 @@
 
 <!--
 **YasinduBimsara98/YasinduBimsara98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=YasinduBimsara98&label=Profile%20views&color=0e75b6&style=plastic" alt="YasinduBimsara98" /> 
-</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=YasinduBimsara98&label=Profile%20views&color=0e75b6&style=plastic" alt="YasinduBimsara98" /> 
+</p>
 <h2> ආයුබෝවන් (Welcome)🙏🏻, I'm Yasindu Bimsara! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Software Developer at <a href="http://www.axcertro.com">Axcertro</a><img src="https://imgflip.com/embed/6tcqjg" width="30"> 
 </em></p>
