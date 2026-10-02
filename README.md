@@ -60,12 +60,24 @@ class ProfileOfBimsara extends Life
 
 ```
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YasinduBimsara98&theme=dracula)]
+<!--[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YasinduBimsara98&theme=dracula)]
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YasinduBimsara98&theme=dracula)](https://github.com/YasinduBimsara98)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YasinduBimsara98)]
 
 [![Archivements](https://github.com/YasinduBimsara98?tab=achievements)]
+-->
+## 📊 GitHub Activity
 
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YasinduBimsara98&theme=dracula)](https://github.com/YasinduBimsara98)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YasinduBimsara98)](https://github.com/YasinduBimsara98)
+
+## 🏅 GitHub Achievements
+
+[View my GitHub Achievements](https://github.com/YasinduBimsara98?tab=achievements)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
